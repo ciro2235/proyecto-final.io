@@ -1,0 +1,29 @@
+body {
+    background: #C39BD3;
+    font-family: cursive;
+}
+
+#container {
+    width: 1100px;
+    shape-margin: 0px auto;
+    border: 1px solid black;
+
+}
+
+header {
+    background: #D2B4DE;
+    height: 140px;
+}
+
+fieldset ul li {
+    list-style: none;
+    margin: inherit
+}
+
+.hide {
+    display: none;
+}
+
+.show {
+    display: block;
+}
